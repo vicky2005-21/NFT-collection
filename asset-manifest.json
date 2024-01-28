@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a412d15a.css",
+    "main.js": "/static/js/main.2ff9dcea.js",
+    "static/media/Home GIF.gif": "/static/media/Home GIF.fd1643637bfc80608d18.gif",
+    "static/media/bighead-3.svg": "/static/media/bighead-3.b08ed7a2301fb41b4afb5e8d79b6647c.svg",
+    "static/media/bighead-5.svg": "/static/media/bighead-5.01de47da94685f87ff7732f7fa3e838a.svg",
+    "static/media/bighead-4.svg": "/static/media/bighead-4.bc9442986cf4381531d6db4ba55d167c.svg",
+    "static/media/bighead-8.svg": "/static/media/bighead-8.8a95e4974c33e2c17527f140950f897a.svg",
+    "static/media/bighead-9.svg": "/static/media/bighead-9.0b1c1e89044ed9ce79553bd8deae683d.svg",
+    "static/media/bighead-7.svg": "/static/media/bighead-7.264b3ac62c40c2b7c9a1311d4342178c.svg",
+    "static/media/bighead-6.svg": "/static/media/bighead-6.e5cd2018b0dcdf7df474c8a4eca797e7.svg",
+    "static/media/bighead-2.svg": "/static/media/bighead-2.477b27f018cbe546504679cbe720005a.svg",
+    "static/media/bighead.svg": "/static/media/bighead.006816ed3ea61e44b058b4ae573bd6fd.svg",
+    "static/media/bighead-1.svg": "/static/media/bighead-1.6331b87b41fffecff1907ca4c2b6bb3f.svg",
+    "static/media/Arrow.svg": "/static/media/Arrow.94ea34e744b92c5dad541e35d3a63dab.svg",
+    "index.html": "/index.html",
+    "main.a412d15a.css.map": "/static/css/main.a412d15a.css.map",
+    "main.2ff9dcea.js.map": "/static/js/main.2ff9dcea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a412d15a.css",
+    "static/js/main.2ff9dcea.js"
+  ]
+}
