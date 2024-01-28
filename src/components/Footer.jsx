@@ -5,7 +5,6 @@ import Logo from "./Logo";
 import Instagram from "../Icons/Instagram";
 import LinkedIn from "../Icons/LinkedIn";
 import Twitter from "../Icons/Twitter";
-import Facebook from "../Icons/Facebook";
 
 const Footer = () => {
   const scrollTo = (id) => {
